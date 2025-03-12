@@ -1,0 +1,4 @@
+- The following program was written to host a local chat room between users
+- The messages are all stored in a JSON file
+- The next steps in the process will be to expand the chatroom outward
+- Allowing ussers to connect to each other from different networks.
